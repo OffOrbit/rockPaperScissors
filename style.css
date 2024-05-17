@@ -1,0 +1,30 @@
+.choiceBtn{
+    line-height: 30px;
+    width: 150px;
+}
+
+#gameDiv{
+    font-family: 'Brush Script MT', cursive;
+    border: 3px solid;
+    border-radius: 25px;
+    padding: 10px;
+    background-color: lightgrey;
+    text-align: center;
+}
+
+#playerText{
+    color: blue;
+}
+
+#computerText{
+    color: red;
+}
+
+/* 
+Breakdown:
+        1. Button Styling: Sets the line height and width for buttons.
+        
+        2. Game Div Styling: Adds a custom font, border, padding, background color, and center alignment to the game container.
+        
+        3. Text Styling: Colors the player’s choice text blue and the computer’s choice text red.
+ */
